@@ -1,18 +1,18 @@
 .sidebar-title {
     font-size: 20px;
     font-weight: normal;
-    margin-bottom: 18px;
+    margin-bottom: 25px;
   }
   
   .sidebar-items {
-    margin-top: 18px;
+    margin-top: 25px;
   }
   
   .sidebar-label-container {
     display: block;
     position: relative;
     padding-left: 35px;
-    margin-bottom: 12px;
+    margin-bottom: 20px;
     cursor: pointer;
     -webkit-user-select: none;
     -moz-user-select: none;
